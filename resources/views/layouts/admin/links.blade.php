@@ -20,3 +20,8 @@
 
 <link href="/admin/src/assets/css/dark/components/list-group.css" rel="stylesheet" type="text/css">
 <link href="/admin/src/assets/css/dark/dashboard/dash_2.css" rel="stylesheet" type="text/css" />
+
+<!--  BEGIN CUSTOM STYLE FILE  -->
+<link href="/admin/src/assets/css/light/elements/custom-pagination.css" rel="stylesheet" type="text/css" />
+<link href="/admin/src/assets/css/dark/elements/custom-pagination.css" rel="stylesheet" type="text/css" />
+<!--  END CUSTOM STYLE FILE  -->
